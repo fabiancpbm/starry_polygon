@@ -1,3 +1,5 @@
 Para executar este programa:
+
 - Abra o arquivo starry_polygon.pde com o Processing;
-- No Processing, aperte o bot„o "Executar" representado com o Ìcone "play".
+- No Processing, aperte o bot√£o "Executar" representado com o √≠cone "play".
+- Se desejar, mude o valor da vari√°vel polygonSides para aumentar ou diminuir a quantidade de pontos.
